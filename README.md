@@ -10,5 +10,5 @@ Leitura e escrita de arquivos (TXT e JSON).
 Estruturação de funções e escopo de variáveis.
 Boas práticas de código e documentação simples.
 
-#### Tecnologias
+#### Ferramentas
 Python · Manipulação de Arquivos · JSON · Funções · Tratamento de Erros · Lógica de Programação
