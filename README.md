@@ -1,7 +1,6 @@
 # Agenda_de_contatos_python
 
 ## Descrição
-
 Este case foi uma continuação natural do primeiro projeto.
 Desenvolvi uma agenda de contatos simples, que permite cadastrar, visualizar, editar e excluir contatos, com as informações salvas em arquivos TXT e JSON.
 O objetivo foi aprender manipulação de arquivos, organização de funções e tratamento de erros para tornar o programa mais estável.
